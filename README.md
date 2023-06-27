@@ -1,3 +1,5 @@
+# GroupChat
+
 GroupChat is a command prompt-based application developed using Java socket programming and multithreading concepts. It facilitates the creation of an intra-network chat room where users can join by entering the correct server IP address.
 
 Key Features:
